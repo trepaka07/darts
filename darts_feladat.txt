@@ -1,0 +1,55 @@
+﻿Darts feladat
+-------------
+-------------
+
+Elkészítendő fájlok: 
+	index.html, 
+	tortenet.html, 
+	jatekok.html, 
+	eszkozok.html,
+	darts.css
+
+Tartalmi elemek
+---------------
+	
+Fejléc
+	"DARTS" szöveg
+	baldart.jpg
+	jobbdart.jpg
+
+Menüsor
+	Alul és felül szegélyezett
+	DARTS -> index.html
+	Története -> tortenet.html
+	Játékok -> jatekok.html
+	Versenyszabályzat -> versenyszab.pdf - új oldalon nyíljon meg
+	Eszközök -> eszkozok.html
+
+Szöveges rész
+	Szöveg, kép a minták és források szerinti tartalommal és tagolással
+	Címek: 1-es, 2-es, 3-as szintű címsor
+	Felsorolás: számozatlan
+	dart.jpg -> hivatkozás a dart_nyil.jpg képre - új oldalon nyíljon meg
+Lábléc
+	Alul és felül szegélyezett
+	Forrás: Magyar Darts Szövetség honlapja  -> darts.hu - új oldalon nyíljon meg
+
+Külső stílus elemek 
+-------------------
+
+Mobil first szemlélet
+Oldal háttere: #999966
+Menüsor és lábléc háttere: #E7D9B6
+Szöveg és linkek színe: #CC0000
+Linkek háttere fölé álláskor fehér, szövege fekete
+Címsorok árnyékoltak
+Befogadó doboz lekerekített és árnyékolt
+
+Töréspont 
+	600 képpontnál szélesebb képernyőnél 
+	- tűnjön el a "fel" gomb
+	- baldart.jpg és jobbdart.jpg is látszódjon
+	- menüpontok egymás mellé kerüljenek
+
+Minden egyéb a minta szerint
+
