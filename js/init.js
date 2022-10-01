@@ -16,7 +16,7 @@ function navLoad() {
             '<a href="./index.html">DARTS</a>'+
             '<a href="./tortenet.html">Története</a>'+
             '<a href="./jatekok.html">Játékok</a>'+
-            '<a href="./source/versenyszab.pdf" target="_blank">Versenyszabályzat</a>'+
+            '<a href="./versenyszab.pdf" target="_blank">Versenyszabályzat</a>'+
             '<a href="./eszkozok.html">Eszközök</a>'+
         '</div>'
     )
