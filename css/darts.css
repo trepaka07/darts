@@ -1,5 +1,6 @@
 * {
     box-sizing: border-box;
+    overflow: auto;
 }
 
 body {
@@ -13,6 +14,8 @@ body {
     border-radius: 1%;
     border: 1px #CC0000 solid;
     box-shadow: 3px 3px 3px black;
+    max-width: fit-content;
+    margin: auto;
 }
 
 header h1 {
@@ -25,7 +28,7 @@ img {
 }
 
 header div {
-    display: block;
+    display: flex;
     justify-content: center;
 }
 
@@ -58,6 +61,10 @@ header div {
         display: inline-block;
         margin-top: 10px;
         margin-bottom: 10px;
+    }
+
+    header img {
+        max-width: 50%;
     }
 }
 
