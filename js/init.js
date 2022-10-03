@@ -26,6 +26,7 @@ function footerLoad() {
     document.write(
         "<footer>"+
             "<a href='https://darts.hu/' target='_blank'>Forrás: Magyar Darts Szövetség honlapja</a>"+
+            "<a href='#top'><img src='./img/fel.png' id='up'></a>"+
         "</footer>"
     )
 }
